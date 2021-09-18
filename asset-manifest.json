@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.5e6cd4ef.chunk.css",
+    "main.js": "/weather-app/static/js/main.d06be23d.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.d06be23d.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.3438609a.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.3438609a.js.map",
+    "static/js/2.52553162.chunk.js": "/weather-app/static/js/2.52553162.chunk.js",
+    "static/js/2.52553162.chunk.js.map": "/weather-app/static/js/2.52553162.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/main.5e6cd4ef.chunk.css.map": "/weather-app/static/css/main.5e6cd4ef.chunk.css.map",
+    "static/js/2.52553162.chunk.js.LICENSE.txt": "/weather-app/static/js/2.52553162.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather-app/static/media/mike-erskine-BWqinEVjUKo-unsplash1.8b6ca075.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3438609a.js",
+    "static/js/2.52553162.chunk.js",
+    "static/css/main.5e6cd4ef.chunk.css",
+    "static/js/main.d06be23d.chunk.js"
+  ]
+}
